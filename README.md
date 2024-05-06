@@ -8,7 +8,7 @@ This project demonstrates a **Text to Image** application developed using `Tkint
 - **Clear Prompt:** Allows clearing the prompt text field.
 - **Download Option:** Save the generated image locally.
 
-![Generated Image](generatedimage0.png)
+![Generated Image](assets/generatedimage0.png)
 
 ## How to Use
 1. Clone this repository:
